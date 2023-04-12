@@ -14,7 +14,7 @@ GoEMS is designed to be modular and scalable, allowing it to be customized and a
    ignition system, calibration, and parser.
    
  - **Data Acquisition Module:** Captures sensor data from the engine and provides it to the Control Module for analysis and processing.
- - 
+
  - **Control Module:** Processes sensor data and generates control signals for the various engine components, including fuel injectors,
    ignition coils, and electronic throttle control.
    
